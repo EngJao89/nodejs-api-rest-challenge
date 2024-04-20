@@ -1,4 +1,4 @@
-## 💻 ApiSolid
+## 💻 Api Daily Diet
 
 Projeto backend em NodeJS, desenvolvido para uma API REST. Trata-se de uma api de um app de dieta e controle de refeições.
 
